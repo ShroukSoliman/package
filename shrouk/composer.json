@@ -1,0 +1,12 @@
+{
+    "name": "mediasci/shrouk",
+    "type": "library",
+    "authors": [
+        {
+            "name": "shrouksoliman",
+            "email": "shrouk.soliman@media-sci.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
