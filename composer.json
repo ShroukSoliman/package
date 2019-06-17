@@ -1,6 +1,7 @@
 {
     "name": "mediasci/shrouk",
     "type": "library",
+    "license" : "MIT",
     "authors": [
         {
             "name": "shrouksoliman",
